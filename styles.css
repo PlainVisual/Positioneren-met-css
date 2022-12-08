@@ -86,7 +86,7 @@ body {
     background-color: var(--primary-clr);
 }
 
-.instruction span, p, img {
+.instruction > span, p, img {
     display: inline-block;
     
   }
